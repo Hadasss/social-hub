@@ -1,12 +1,3 @@
-// import dateFormat, { masks } from "dateformat";
-// const now = new Date();
-
-// const date = dateFormat("dd, mm, yyyy, HH:MM");
-// // dateFormat();
-// // Sat Jun 09 2007 17:46:22
-
-// module.exports = date;
-
 const addDateSuffix = (date) => {
   let dateStr = date.toString();
 
