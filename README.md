@@ -24,7 +24,7 @@ Routes and controllers for a social media app.
 
 ## Tests
 
-There are no tests for this program.
+Tested with Insomnia
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/80355222/164752249-16e91c04-4566-4bff-a9c4-528f8db0d808.png)
